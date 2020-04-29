@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Projeto com validações front-end, não necessitando de um back-end e de um banco de dados.
+
 ## Available Scripts
 
 In the project directory, you can run:
