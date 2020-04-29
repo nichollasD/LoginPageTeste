@@ -12,4 +12,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 PARA RODAR O PROJETO, ACESSAR PASTA DO PROJETO PELO CMD, DIGITAR :
 ### `npm install`
+EM SEGUIDA DIGITAR:
 ### `yarn start`
